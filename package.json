@@ -1,7 +1,7 @@
 {
   "name": "Jason's-Amy",
   "version": "3.2.1",
-  "license": "MIT",
+  "license": "Apache GPLV2",
   "repository": {
     "type": "git",
     "url": "git+git@github.com:jasonlee529/room-spider-front.git"
