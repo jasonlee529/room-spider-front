@@ -7,12 +7,12 @@ node_js:
   - '8'
   - '9'
   - '10'
-
+after_script:
+- npm run build:prod
+- gulp deploy
 branches:
   only:
   - master
-  - starter-kit
-  - demo
 
 addons:
   apt:
